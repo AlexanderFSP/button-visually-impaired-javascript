@@ -25,7 +25,7 @@
     "watch-css": "nodemon --watch src/scss/ --ext scss --exec \"npm-run-all css-compile\""
   },
   "files": [
-    "dist/{css,js}/*.{css,js,map}",
+    "dist/{css,img,js}/*.{css,svg,js,map}",
     "src/{js,scss}/*.{js,scss,map}"
   ],
   "keywords": [
